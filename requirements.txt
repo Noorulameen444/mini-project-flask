@@ -1,0 +1,12 @@
+# This file lists the Python packages required for the Flask mini-project.
+# The pandas package is included in this file.
+# FILEPATH: /workspaces/mini-project-flask/requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+flask
+flask-wtf
+flask-bootstrap
+scikit-learn
